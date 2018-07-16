@@ -1,3 +1,3 @@
 print ("hello ;D")
 
-privt ("bye")
+print ("bye")
